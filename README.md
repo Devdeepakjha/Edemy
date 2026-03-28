@@ -361,14 +361,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Shubham Lalit Jha**
+**Deepak Lalit Jha**
 
-- Email: [jhashubham035@gmail.com](mailto:jhashubham035@gmail.com)
-- GitHub: [@Shubhamcoderr08](https:github.com/Shubhamcoderr08)
+- Email: [djha9076@gmail.com](mailto:djha9076@gmail.com)
+- GitHub: [@Devdeepakjha](https:github.com/Devdeepakjha)
 
 ---
 
-Made with ❤️ by Shubham Lalit Jha
+Made with ❤️ by Devdeepakjha
 # Edemy
-#   E d e m y  
- 
